@@ -1,4 +1,4 @@
-# Hadron-dark-photon-heritage-diagnostics
+## Material diagnostics through dark photons and hadrons
 Theoretical feasibility and computational simulation of dark photons  from meson decays for non-destructive diagnostics of complex and dense materials, using invariant mass spectroscopy.
 
 ## Project Overview
